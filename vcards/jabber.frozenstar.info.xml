@@ -1,0 +1,43 @@
+<vcard>
+  <fn>
+    <text>jabber.frozenstar.info</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://www.frozenstar.info</uri>
+  </url>
+  <note>
+    <text>jabber.frozenstar.info :: provided by: froz-admin@jabber.frozenstar.info </text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:jabber.frozenstar.info</uri>
+  </registration>
+  <bday>
+    <date>2016</date>
+  </bday>
+  <adr>
+    <country>DE</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>Letsencrypt</name>
+    <uri>https://www.letsencrypt.com/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>ejabberd</name>
+  <impp>
+    <uri>xmpp:froz-admin@jabber.frozenstar.info</uri>
+  </impp>
+  <geo>
+    <uri>geo:54.320,10.144</uri>
+  </geo>
+  <tz>
+    <text>Europe/Berlin</text>
+  </tz>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>de</language-tag>
+  </lang>
+</vcard>
