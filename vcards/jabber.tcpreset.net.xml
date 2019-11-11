@@ -1,0 +1,29 @@
+
+<vcard>
+    <fn>
+        <text>jabber.tcpreset.net</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://jabber.tcpreset.net</uri>
+    </url>
+    <note>
+        <text>A secure anonynous xmpp server in linux environment.</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>https://jabber.tcpreset.net:5280/register/</uri>
+    </registration>
+    <bday>
+        <date>2019</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>Letsencrypt CA</name>
+        <uri>https://letsencrypt.org</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>ejabberd-18.12.1-2~bpo9+1</name>
+</vcard>
